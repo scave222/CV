@@ -1,0 +1,70 @@
+body{background-color: white;width: 100%;margin-bottom: 0rem;}
+
+.jumbotron{padding: 0;background-color: white;border-radius: 0;}
+.nav{color: black;}
+.navbar{float: right;font-size: 15px;}
+.disabled{background-color:  rgb(14, 236, 214);}
+a{color: black;}
+.navmag{padding-right: 0;}
+.nave{float: right;}
+.fa{color: white;}
+footer .mail{float: right;padding-right: 13px;}
+.black{background-color: black;}
+.container .row .intro{color: white;}
+.container .row  h1 .me{color: rgb(14, 236, 214);}
+.container .row .gray {color: rgb(141, 139, 139);}
+.container .row .aboutMe{color:white;}
+.container .row .pad{padding-top: 100px;}
+img{width: 80%;height: 250px;float: right;margin-top: 40px;}
+.container .dash{margin-top: -25px;}
+.card{margin: 20px;background-color: rgb(230, 227, 227);}
+.container .card .view {color: rgb(14, 236, 214);padding: 10px;background-color:  rgb(14, 236, 214);border-radius: 10px;}
+.card-img-top{margin-top: 0;}
+button{background-color:rgb(14, 236, 214);}
+.portfolio{background-color: black; height: 180px;}
+.portfolio .port{color:rgb(14, 236, 214) ;}
+.jumbotron .por{color:rgb(141, 139, 139) ;}
+
+
+
+
+.footer{background-color: black;color:white;padding-left: 15px;}
+
+
+ul.list{
+    display: flex;
+    justify-content: center;
+       padding: 0;
+       margin: 0;
+       list-style-type: none;
+       color: white;
+   }
+   ul.list li a{
+       display: inline-block;
+       width: 30px;
+       height: 30px;
+       border-radius: 100px;
+       text-align: center;
+       color: #fff;
+       padding: 5px;
+   }
+   ul.list li{
+       margin-right: 3px;
+   }
+   
+   ul.list li a.fa.fa-facebook{
+       background-color: blue;
+   }
+   
+   ul.list li a.fa.fa-twitter{
+       background-color: skyblue;
+   }
+   
+   ul.list li a.fa.fa-google-plus{
+       background-color: red;
+  
+   }
+  
+   ul.list li a.fa.fa-pinterest-p{
+    background-color:pink;
+  }
