@@ -1,5 +1,31 @@
 body{background-color: white;width: 100%;margin-bottom: 0rem;}
 
+
+ul.list{
+    display: flex;
+    justify-content: center;
+       padding: 0;
+       margin: 4px;
+       list-style-type: none;
+       color: white;
+   }
+   ul.list li a{
+       display: inline-block;
+       width: 30px;
+       height: 30px;
+       border-radius: 100px;
+       text-align: center;
+       color: #fff;
+       padding: 5px;
+       border-style: solid;
+       border-width: 2px;
+       border-color: white;
+       background-color: black;
+   }
+   ul.list li{
+       margin-right: 3px;
+   }
+
 .jumbotron{padding: 0;background-color: white;border-radius: 0;}
 .nav{color: black;}
 .navbar{float: right;font-size: 15px;}
@@ -36,41 +62,3 @@ button{background-color:rgb(14, 236, 214);}
 
 .footer{background-color: black;color:white;padding-left: 15px;}
 
-
-ul.list{
-    display: flex;
-    justify-content: center;
-       padding: 0;
-       margin: 0;
-       list-style-type: none;
-       color: white;
-   }
-   ul.list li a{
-       display: inline-block;
-       width: 30px;
-       height: 30px;
-       border-radius: 100px;
-       text-align: center;
-       color: #fff;
-       padding: 5px;
-   }
-   ul.list li{
-       margin-right: 3px;
-   }
-   
-   ul.list li a.fa.fa-facebook{
-       background-color: blue;
-   }
-   
-   ul.list li a.fa.fa-twitter{
-       background-color: skyblue;
-   }
-   
-   ul.list li a.fa.fa-google-plus{
-       background-color: red;
-  
-   }
-  
-   ul.list li a.fa.fa-pinterest-p{
-    background-color:pink;
-  }
