@@ -45,6 +45,8 @@ img{width: 80%;height: 250px;float: right;margin-top: 40px;}
 .container .dash{margin-top: -25px;}
 .card{margin: 20px;background-color: rgb(230, 227, 227);}
 .container .card .view {color: rgb(14, 236, 214);padding: 10px;background-color:  rgb(14, 236, 214);border-radius: 10px;}
+.container .viewMore{color: white;border-radius: 10px;}
+.container .viewed{color:white;padding:5px;}
 .card-img-top{margin-top: 0;}
 button{background-color:rgb(14, 236, 214);}
 .portfolio{background-color: black; height: 180px;}
